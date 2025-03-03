@@ -1,6 +1,6 @@
 #*****************************
 #
-# Ciao, questo e un brute force dei siti wb per scoprire dei path nei URL, e una piccola casa creata da me
+# Ciao, questo e un brute force dei siti wb per scoprire dei path nei URL, e una piccola cosa creata da me
 # Spero che vi piacia.
 #
 #******************************
